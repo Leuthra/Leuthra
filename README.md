@@ -1,5 +1,7 @@
 <p align="center">
 Hey there, Thanks for visiting my profile... 
+<p align="center">
+<img src="https://profile-counter.glitch.me/{Leuthra}/count.svg" alt="Leuthra :: Visitor's Count" />
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
 <img src="https://i.pinimg.com/originals/f8/07/8d/f8078d53126c8662b86f41287a7d806b.gif" width="5000px" height="300px">
