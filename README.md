@@ -25,3 +25,13 @@
   </a>
 </p status>
 
+```javascript
+// index.js
+[
+  '🌐 Web Developer',
+  "💛 JavaScript enjoyer",
+  '🤓 Mostly self-taught',
+  '✨ Trying my best to write readable codes',
+  "🎉 Open for collaborations!"
+].forEach((e) => { console.log(e) });
+```
