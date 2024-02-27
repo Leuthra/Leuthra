@@ -24,3 +24,7 @@
     <img src='https://spotify-github-profile.vercel.app/api/view?uid=31u3koqhbdjapgpxxeaeu733rkni&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=006eff&bar_color_cover=true' class='layout'>
   </a>
 </p status>
+
+<p align='center'>
+  <img src="https://pixel-profile.vercel.app/api/github-stats?username=leuthra" width="500" height="200"/>
+</p>
